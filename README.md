@@ -1,8 +1,8 @@
 ### Olá, sou o Kaique!
 
 - 🔭 Hoje trabalho com front-end.
-- 🌱 Estudando JavaScript, mas também estou encarando outros desafios!!!
-- 📫 Contate-me pelo e-mail: kaiquetaquette55@gmail.com
+- 🌱 Estudando JS, jQuery, React e Redux, mas também estou encarando outros desafios!!!
+- 📫 Contate-me pelo e-mail: kaiquetaquette55@gmail.com ou pelo número (11)995066569
 ##
 <div align="center">
   <a href="https://github.com/Kaiquinho">
