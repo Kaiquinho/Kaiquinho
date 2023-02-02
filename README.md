@@ -1,7 +1,7 @@
 ### Olá, sou o Kaique!
 
 - 👨‍💼 full-stack dev.
-- 🌱 Estudando <strong> C, Java, Python, JavaSript(react, redux, nodeJs, jQuery), MongoDB e SQLserver.</strong>
+- 🌱 Estudando <strong> C#, Java, Python, JavaSript(react, redux, nodeJs, jQuery), MongoDB e SQLserver.</strong>
 - 📖 Posso responder perguntas sobre <strong>JavaScript e C</strong>  
 - 📫 Contate-me pelo e-mail: kaiquetaquette55@gmail.com ou pelo número <strong>(11)995066569</strong>
 
