@@ -24,6 +24,7 @@
   <img align="center" alt="Kaique-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />         
 </div>
   <img align="center" alt="Kaique-Pyhton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Kaique-Csharp" height="30" width="40" src="	https://cdn.worldvectorlogo.com/logos/c--4.svg"
 
 ##
   
