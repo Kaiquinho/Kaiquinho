@@ -3,7 +3,7 @@
 - 👨‍💼 Desenvolvedor full-stack Jr.
 - 🧠 <strong> Me especializando </strong> no desenvolvimento de interfaces, focando em uma base de material robusta a respeito de UI/UX design.
 - 🌱 Estudando <strong> C#, Java, Python, JavaSript(react, redux, nodeJs, jQuery), MongoDB e SQLserver.</strong>
-- 📖 Posso responder perguntas sobre <strong>JavaScript, HTML5/CSS3, MySQLsever/SQLserver e C#</strong>  
+- 📖 Posso responder perguntas sobre <strong>JavaScript, HTML5/CSS3, MySQLsever/SQLserver, C# e Dart</strong>  
 - 📫 Contate-me pelo e-mail: kaiquetaquette55@gmail.com ou pelo número <strong>(11)995066569</strong>
 
 ##
